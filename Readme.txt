@@ -6,3 +6,5 @@ soap1
 dev1
 dev1:3
 master 2
+
+rest 1
